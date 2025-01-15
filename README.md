@@ -190,9 +190,4 @@ pip install numpy
 ---
 
 ## License
-This project is licensed under the MIT License.
-
---- 
-
-## Authors
-Developed by **[Your Name]** and contributors.
+This project is open-source and free to use.
